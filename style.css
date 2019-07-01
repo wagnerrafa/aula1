@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    font-family: 'PT Sans Caption', sans-serif;
+}
+nav{
+    background-color: blue;
+    height: 50px;
+    font-size: 16pt;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+    padding: 40 px;
+    margin: 40px;
+}

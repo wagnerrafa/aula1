@@ -1,0 +1,17 @@
+pwd- mostrar em que diretorio está
+ls- mostrar tudo que está dentro desse diretorio
+cd- entrar numa pasta
+mkdir- criar pasta
+rm -rf- excluir arquivo
+code .- abrir arquivo no visual stdio
+git init- criar inciaçao para salvar no github
+git config user.email user.name- configurar email e usuario do git
+touch
+git add- criar arquivo index.html
+git status
+git diff- mostrar as alteraçoes ja feitas
+a href- criar botao de link
+git commit- criar comentario depois de ter add
+git log- ver todos os commit
+git remote add origin 
+git push origin master
